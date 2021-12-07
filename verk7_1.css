@@ -1,0 +1,39 @@
+body {
+    margin: 0 auto;
+    background-image: url(image.jpg);
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    background-repeat: repeat-y;
+}
+.header {
+    padding-left: 90px;
+    color: tomato;
+}
+.topnav {
+    padding-left: 100px;
+}
+.topnav a:hover,
+.topnav a:active,
+.topnav ul{
+    color: crimson !important;
+}
+.topnav a{
+    text-decoration: none;
+    color: white;
+}
+.as1 h2{
+    font-size: 15px;
+    color:darkgoldenrod;
+}
+.as2 {
+    width: 650px;
+    color: darkgray;
+}
+.born {
+    color: white;
+}
+.footer {
+    position: absolute;
+    text-align: right;
+    top: 0;
+    right: 1em;
+}
